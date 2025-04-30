@@ -1,0 +1,5 @@
+(executable
+ (public_name inference)
+ (name main)
+ (libraries inference)
+ (flags (:standard -w -27-32-33-34-35-37-39)))
